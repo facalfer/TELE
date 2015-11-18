@@ -147,37 +147,37 @@ http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="NFL Network.png" group-title="DEPORTES",NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-#EXTINF:-1 group-title="Deportes", Azteca Deportes
+#EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="Deportes", Xtreme Impacts
+#EXTINF:-1 group-title="DEPORTES", Xtreme Impacts
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 group-title="Deportes", Pac Mountain FHD
+#EXTINF:-1 group-title="DEPORTES", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="Deportes", Pac Mountain HD
+#EXTINF:-1 group-title="DEPORTES", Pac Mountain HD
 http://xrxs.net/video/live-p12mou-2328.m3u8
-#EXTINF:-1 group-title="Deportes", Pac National FHD
+#EXTINF:-1 group-title="DEPORTES", Pac National FHD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="Deportes", PAC National HD
+#EXTINF:-1 group-title="DEPORTES", PAC National HD
 http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Arizona HD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Arizona FHD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona FHD
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Bay Area HD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area HD
 http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Bay Area FHD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area FHD
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Los Angeles HD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles HD
 http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Los Angeles FHD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles FHD
 http://xrxs.net/video/live-p12los-4728.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Oregon HD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon HD
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Oregon FHD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon FHD
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Washington HD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington HD
 http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1 group-title="Deportes", PAC-12 Washington FHD
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington FHD
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:0,-Musica-
