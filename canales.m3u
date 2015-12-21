@@ -88,6 +88,26 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="multimedios_tv_zpsgw1mtkzz.png" group-title="MEXICO",Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
+#EXTINF:0,-España-
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/MEGA_zpshdpgggua.png" group-title="ESPAÑA", Mega 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/miamitvlogoiptvsat---Copy_zps31pixgh9.png" group-title="ESPAÑA",Miami Tv  
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1 tvg-logo="http://www.infobierzo.com/wp-content/themes/Infobierzo2015/images/tv1.png" group-title="ESPAÑA",La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://r11.imgfast.net/users/1114/10/46/39/album/tve2lo10.png" group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E0b15cZ__gs/VVRiESZXOvI/AAAAAAAACbs/C0ftdkDYiSk/s200/antena3%2BALEA.png" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://files.encontraronline.webnode.es/200000368-42fa743441/LA%20SEXTA.png" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png" group-title="ESPAÑA",RT Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png" group-title="ESPAÑA",RT Español HD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
 #EXTINF:0,-Estilo y tendencias-
 
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
@@ -110,9 +130,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:0,-Deportes-
 
 #EXTINF:-1 tvg-logo="tyc-sports-tv_zps98dncr5p.png" group-title="DEPORTES",T y C Sports 
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
+http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 #EXTINF:-1 tvg-logo="bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
-http://46.101.246.69:8000/live/skype:/ramyon.messi/532.ts
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="BeinSports.png" group-title="DEPORTES",BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
@@ -125,14 +145,6 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="DEPORTES",ESPN + 
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 
@@ -145,6 +157,18 @@ http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="espn-3-hd.png" group-title="DEPORTES",ESPN 3 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN + 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 5
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.135/live playpath=luxsuperss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss5&vw=620&vh=490
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 4
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.22/live playpath=luxsuperss4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss4&vw=620&vh=490
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.29/live playpath=luxsuperss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss3&vw=620&vh=490
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90/live playpath=luxsuperss2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss2&vw=620&vh=490
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://89.248.168.200/live playpath=luxsuperss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss1&vw=620&vh=490
 #EXTINF:-1 tvg-logo="NFL Network.png" group-title="DEPORTES",NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
