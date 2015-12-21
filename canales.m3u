@@ -159,16 +159,18 @@ http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 5
-rtmp://$OPT:rtmp-raw=rtmp://93.174.93.135/live playpath=luxsuperss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss5&vw=620&vh=490
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 4
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.22/live playpath=luxsuperss4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss4&vw=620&vh=490
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 3
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.29/live playpath=luxsuperss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss3&vw=620&vh=490
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 2
-rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90/live playpath=luxsuperss2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss2&vw=620&vh=490
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 1
-rtmp://$OPT:rtmp-raw=rtmp://89.248.168.200/live playpath=luxsuperss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=luxsuperss1&vw=620&vh=490
+#EXTINF:-1 group-title="DEPORTES",Sky Sport News Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/368.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 1 Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/369.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 2 Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/370.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 3 Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/371.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 4 Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/372.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 5 Uk
+http://46.101.246.69:8000/live/skype:/ramyon.messi/373.ts
 #EXTINF:-1 tvg-logo="NFL Network.png" group-title="DEPORTES",NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
