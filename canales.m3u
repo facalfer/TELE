@@ -168,12 +168,6 @@ http://xs.best-tv.us:8000/live/mazzola/mazzola/368.ts
 #EXTINF:-1 group-title="DEPORTES",Sky Sport MotoGP HD
 http://xs.best-tv.us:8000/live/mazzola/mazzola/482.ts
 
-#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 3HD EN
-http://5.196.67.222:80/live/Beinf/live/3791.ts
-#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 2HD EN
-http://5.196.67.222:80/live/Beinf/live/3789.ts
-#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 1HD EN
-http://5.196.67.222:80/live/Beinf/live/3790.ts
 #EXTINF:-1 group-title="DEPORTES",Bein sport 8 HD AR
 http://5.196.67.222:80/live/Beinf/live/3802.ts
 #EXTINF:-1 group-title="DEPORTES",Bein sport 7 HD AR
@@ -188,12 +182,6 @@ http://5.196.67.222:80/live/Beinf/live/3807.ts
 http://5.196.67.222:80/live/Beinf/live/3798.ts
 #EXTINF:-1 group-title="DEPORTES",Bein sport 1 HD FR
 http://5.196.67.222:80/live/Beinf/live/3805.ts
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 3 EN
-http://5.196.67.222:80/live/Beinf/live/482.ts
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 2 EN
-http://5.196.67.222:80/live/Beinf/live/481.ts
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 1 EN
-http://5.196.67.222:80/live/Beinf/live/480.ts
 
 #EXTINF:-1 group-title="DEPORTES", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
