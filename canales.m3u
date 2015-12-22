@@ -139,10 +139,7 @@ http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 group-title="DEPORTES", AM Sport 
-http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 
@@ -159,24 +156,45 @@ http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN + 
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="DEPORTES",Sky Sport News Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/368.ts
-#EXTINF:-1 group-title="DEPORTES",Sky Sport 1 Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/369.ts
-#EXTINF:-1 group-title="DEPORTES",Sky Sport 2 Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/370.ts
-#EXTINF:-1 group-title="DEPORTES",Sky Sport 3 Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/371.ts
-#EXTINF:-1 group-title="DEPORTES",Sky Sport 4 Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/372.ts
-#EXTINF:-1 group-title="DEPORTES",Sky Sport 5 Uk
-http://46.101.246.69:8000/live/skype:/ramyon.messi/373.ts
 #EXTINF:-1 tvg-logo="NFL Network.png" group-title="DEPORTES",NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="DEPORTES", Xtreme Impacts
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Sky Sport24 HD
+http://xs.best-tv.us:8000/live/mazzola/mazzola/367.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport 1 HD
+http://xs.best-tv.us:8000/live/mazzola/mazzola/368.ts
+#EXTINF:-1 group-title="DEPORTES",Sky Sport MotoGP HD
+http://xs.best-tv.us:8000/live/mazzola/mazzola/482.ts
+
+#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 3HD EN
+http://5.196.67.222:80/live/Beinf/live/3791.ts
+#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 2HD EN
+http://5.196.67.222:80/live/Beinf/live/3789.ts
+#EXTINF:-1 group-title="DEPORTES",beIN SPORTS 1HD EN
+http://5.196.67.222:80/live/Beinf/live/3790.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 8 HD AR
+http://5.196.67.222:80/live/Beinf/live/3802.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 7 HD AR
+http://5.196.67.222:80/live/Beinf/live/3803.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 6 HD AR
+http://5.196.67.222:80/live/Beinf/live/3801.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 4 HD AR
+http://5.196.67.222:80/live/Beinf/live/3799.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 3 HD FR
+http://5.196.67.222:80/live/Beinf/live/3807.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 2 HD AR
+http://5.196.67.222:80/live/Beinf/live/3798.ts
+#EXTINF:-1 group-title="DEPORTES",Bein sport 1 HD FR
+http://5.196.67.222:80/live/Beinf/live/3805.ts
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 3 EN
+http://5.196.67.222:80/live/Beinf/live/482.ts
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 2 EN
+http://5.196.67.222:80/live/Beinf/live/481.ts
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS 1 EN
+http://5.196.67.222:80/live/Beinf/live/480.ts
+
 #EXTINF:-1 group-title="DEPORTES", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1 group-title="DEPORTES", Pac Mountain HD
