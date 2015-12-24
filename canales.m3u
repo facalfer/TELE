@@ -161,51 +161,100 @@ http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 
-#EXTINF:-1 group-title="Deportes Internacional", Stadium 5 HD
+#EXTINF:-1 group-title="DEPORTES INT", Stadium 5 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3300.ts
-#EXTINF:-1 group-title="Deportes Internacional", Stadium 4 HD
+#EXTINF:-1 group-title="DEPORTES INT", Stadium 4 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3299.ts
-#EXTINF:-1 group-title="Deportes Internacional", Stadium 3 HD
+#EXTINF:-1 group-title="DEPORTES INT", Stadium 3 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3298.ts
-#EXTINF:-1 group-title="Deportes Internacional", Stadium 2 HD
+#EXTINF:-1 group-title="DEPORTES INT", Stadium 2 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3297.ts
-#EXTINF:-1 group-title="Deportes Internacional", Stadium 1 HD
+#EXTINF:-1 group-title="DEPORTES INT", Stadium 1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3296.ts
-#EXTINF:-1 group-title="Deportes Internacional", Beinsport 3 HD FR
+#EXTINF:-1 group-title="DEPORTES INT", Beinsport 3 HD FR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3276.ts
-#EXTINF:-1group-title="Deportes Internacional", Beinsport 2 HD FR
+#EXTINF:-1group-title="DEPORTES INT", Beinsport 2 HD FR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3275.ts
-#EXTINF:-1group-title="Deportes Internacional", Beinsport 1 HD FR
+#EXTINF:-1group-title="DEPORTES INT", Beinsport 1 HD FR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3274.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORTING TV  SD PR
+#EXTINF:-1 group-title="DEPORTES INT"", SPORTING TV  SD PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3208.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV AMERICAS PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV AMERICAS PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3209.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV 5  HD PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV 5  HD PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3210.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV 4  HD  PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV 4  HD  PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3211.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV 3 HD  PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV 3 HD  PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3214.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV 2  HD  PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV 2  HD  PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3212.ts
-#EXTINF:-1 group-title="Deportes Internacional", SPORT TV 1 HD PR
+#EXTINF:-1 group-title="DEPORTES INT", SPORT TV 1 HD PR
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3213.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport5 DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3012.ts
+#EXTINF:-1g roup-title="DEPORTES INT", Sky Sport 4 DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3011.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport3 DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2989.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport 2 DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2982.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport 1 DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2981.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport News DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2991.ts
+#EXTINF:-1 group-title="DEPORTES INT", Sky Sport Austria DE
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3000.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Setanta Sport
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2786.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Premiere Sport
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2790.ts
+#EXTINF:-1 group-title="DEPORTES INT”, MUTV
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2794.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Eurosport 2 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2807.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Eurosport 1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2808.ts
+#EXTINF:-1 group-title="DEPORTES INT”, ESPN HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2809.ts
+#EXTINF:-1 group-title="DEPORTES INT”, BT Sports 2 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2829.ts
+#EXTINF:-1 group-title="DEPORTES INT”, BT Sports 1
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2830.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Box Nation
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2831.ts
 
 
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 8 HD AR
+
+#EXTINF:-1 group-title="DEPORTES INT”, Sky Sports News HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2761.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2762.ts
+#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 5 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2763.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport 4 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2764.ts
+#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2765.ts
+#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 2HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2766.ts
+#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2767.ts
+
+
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 8 HD AR
 http://5.196.67.222:80/live/Beinf/live/3802.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 7 HD AR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 7 HD AR
 http://5.196.67.222:80/live/Beinf/live/3803.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 6 HD AR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 6 HD AR
 http://5.196.67.222:80/live/Beinf/live/3801.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 4 HD AR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 4 HD AR
 http://5.196.67.222:80/live/Beinf/live/3799.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 3 HD FR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 3 HD FR
 http://5.196.67.222:80/live/Beinf/live/3807.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 2 HD AR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 2 HD AR
 http://5.196.67.222:80/live/Beinf/live/3798.ts
-#EXTINF:-1 group-title="DEPORTES Arab",Bein sport 1 HD FR
+#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 1 HD FR
 http://5.196.67.222:80/live/Beinf/live/3805.ts
 
 #EXTINF:-1 group-title="DEPORTES USA", Pac Mountain FHD
