@@ -135,6 +135,108 @@ http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Supercalcio HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2687.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2688.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2689.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 24 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2690.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 2 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2691.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2692.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Moto GP HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2693.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 7 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2701.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 6 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2702.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 4 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2703.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 3 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2704.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 2 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2705.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2706.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 7
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2727.ts
+#EXTINF:-1 group-title="DEPORTES IT”, Premium Calcio 6
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2728.ts
+#EXTINF:-1 group-title="DEPORTES IT”, Premium Calcio 5
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2729.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 4
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2730.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 3
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2731.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 2
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2732.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 1
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2733.ts
+#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2734.ts
+
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sports News HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2761.ts
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2762.ts
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 5 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2763.ts
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 4 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2764.ts
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2765.ts
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 2HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2766.ts
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 1 HD
+http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2767.ts
+
+#EXTINF:-1 group-title="DEPORTES USA", Pac Mountain FHD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", Pac Mountain HD
+http://xrxs.net/video/live-p12mou-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", Pac National FHD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Arizona FHD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Bay Area FHD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Los Angeles FHD
+http://xrxs.net/video/live-p12los-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Oregon FHD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Washington HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Washington FHD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 8 HD AR
+http://5.196.67.222:80/live/Beinf/live/3802.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 7 HD AR
+http://5.196.67.222:80/live/Beinf/live/3803.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 6 HD AR
+http://5.196.67.222:80/live/Beinf/live/3801.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 4 HD AR
+http://5.196.67.222:80/live/Beinf/live/3799.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 3 HD FR
+http://5.196.67.222:80/live/Beinf/live/3807.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 2 HD AR
+http://5.196.67.222:80/live/Beinf/live/3798.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 1 HD FR
+http://5.196.67.222:80/live/Beinf/live/3805.ts
+
 #EXTINF:-1 group-title="DEPORTES INT", Stadium 5 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3300.ts
 #EXTINF:-1 group-title="DEPORTES INT", Stadium 4 HD
@@ -200,64 +302,6 @@ http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2831.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTES UK", Sky Sports News HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2761.ts
-#EXTINF:-1 group-title="DEPORTES UK", Sky Sport F1 HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2762.ts
-#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 5 HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2763.ts
-#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 4 HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2764.ts
-#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 3 HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2765.ts
-#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 2HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2766.ts
-#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 1 HD
-http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2767.ts
-
-#EXTINF:-1 group-title="DEPORTES USA", Pac Mountain FHD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", Pac Mountain HD
-http://xrxs.net/video/live-p12mou-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", Pac National FHD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC National HD
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Arizona FHD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Bay Area FHD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Los Angeles FHD
-http://xrxs.net/video/live-p12los-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Oregon FHD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Washington HD
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES USA", PAC-12 Washington FHD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 8 HD AR
-http://5.196.67.222:80/live/Beinf/live/3802.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 7 HD AR
-http://5.196.67.222:80/live/Beinf/live/3803.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 6 HD AR
-http://5.196.67.222:80/live/Beinf/live/3801.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 4 HD AR
-http://5.196.67.222:80/live/Beinf/live/3799.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 3 HD FR
-http://5.196.67.222:80/live/Beinf/live/3807.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 2 HD AR
-http://5.196.67.222:80/live/Beinf/live/3798.ts
-#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 1 HD FR
-http://5.196.67.222:80/live/Beinf/live/3805.ts
 
 #EXTINF:0,-Estilo y tendencias-
 
