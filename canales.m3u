@@ -135,47 +135,47 @@ http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Supercalcio HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Supercalcio HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2687.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport F1 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Sport F1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2688.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 3 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Sport 3 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2689.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 24 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Sport 24 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2690.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 2 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Sport 2 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2691.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Sport 1 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Sport 1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2692.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Moto GP HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Moto GP HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2693.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 7 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 7 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2701.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 6 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 6 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2702.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 4 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 4 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2703.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 3 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 3 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2704.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 2 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 2 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2705.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Sky Calcio 1 HD
+#EXTINF:-1 group-title="DEPORTES IT", Sky Calcio 1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2706.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 7
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 7
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2727.ts
-#EXTINF:-1 group-title="DEPORTES IT”, Premium Calcio 6
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 6
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2728.ts
-#EXTINF:-1 group-title="DEPORTES IT”, Premium Calcio 5
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 5
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2729.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 4
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 4
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2730.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 3
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 3
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2731.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 2
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 2
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2732.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio 1
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio 1
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2733.ts
-#EXTINF:-1, group-title="DEPORTES IT”, Premium Calcio
+#EXTINF:-1 group-title="DEPORTES IT", Premium Calcio
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2734.ts
 
 #EXTINF:-1 group-title="DEPORTES UK", Sky Sports News HD
