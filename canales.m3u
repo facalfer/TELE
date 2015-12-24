@@ -44,49 +44,42 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", MAGAZINE
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 
-#EXTINF:0,-Peru-
+#EXTINF:0,-America-
 
-#EXTINF:-1 tvg-logo="gallery_1163_2_34091_zpssseoh1n1.png" group-title="PERU",Andina Tv 
+
+#EXTINF:-1 tvg-logo="gallery_1163_2_34091_zpssseoh1n1.png" group-title="AMERICA",Andina Tv PERU
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-#EXTINF:-1 tvg-logo="dragon-tv-hd_zps88l2narb.png" group-title="PERU",America Tv 
+#EXTINF:-1 tvg-logo="dragon-tv-hd_zps88l2narb.png" group-title="AMERICA",America Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 tvg-logo="latina_pe_zps5evuplhq.png" group-title="PERU",Latina Tv 
+#EXTINF:-1 tvg-logo="latina_pe_zps5evuplhq.png" group-title="AMERICA",Latina Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
-#EXTINF:-1 tvg-logo="PANAMERICANA_TELEVISION_PE__zpsgdwcxmsn.png" group-title="PERU",Panamericana Tv
+#EXTINF:-1 tvg-logo="PANAMERICANA_TELEVISION_PE__zpsgdwcxmsn.png" group-title="AMERICA",Panamericana Tv PERU
 http://stream-03.sv6.dailymotion.com/03/dm/1/x18w5up/live.isml/live.m3u8?e=1447515439&st=uNA0NthzTiBKmEmqRRp4Pg
-#EXTINF:-1 tvg-logo="ucvsa_zpsucuc3hvt.png" group-title="PERU",UCV Satelital
+#EXTINF:-1 tvg-logo="ucvsa_zpsucuc3hvt.png" group-title="AMERICA",UCV Satelital PERU
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
-#EXTINF:0,-Bolivia-
 
-#EXTINF:-1 tvg-logo="redpat_zpsemuhxjks.png" group-title="BOLIVIA",Red Pat
+#EXTINF:-1 tvg-logo="redpat_zpsemuhxjks.png" group-title="AMERICA",Red Pat BOLIVIA
 http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1 tvg-logo="reduno_zpsvvo8rl9f.png" group-title="BOLIVIA",Red Uno
+#EXTINF:-1 tvg-logo="reduno_zpsvvo8rl9f.png" group-title="AMERICA",Red Uno BOLIVIA
 http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8
 
-#EXTINF:0,-Ecuador-
 
-#EXTINF:-1 tvg-logo="200px-Rts_logo_zpsv8e80rvg.png" group-title="ECUADOR", RTS Ecuador
+#EXTINF:-1 tvg-logo="200px-Rts_logo_zpsv8e80rvg.png" group-title="AMERICA", RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
 
-#EXTINF:0,-Mexico-
 
-#EXTINF:-1 tvg-logo="canal_estrellas_lam_zpsqvy9egdu.png" group-title="MEXICO",Canal de las Estrellas 
+#EXTINF:-1 tvg-logo="canal_estrellas_lam_zpsqvy9egdu.png" group-title="AMERICA",Canal de las Estrellas MX
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 tvg-logo="Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
+#EXTINF:-1 tvg-logo="Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="AMERICA",Telemundo MX
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="AMERICA",Azteca 7 MX
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1 tvg-logo="azteca_trece_zpsepy7lea4.png" group-title="MEXICO",Azteca 13 
+#EXTINF:-1 tvg-logo="azteca_trece_zpsepy7lea4.png" group-title="AMERICA",Azteca 13 MX
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="azteca_noticias_mx_zps5ekbsijn.png" group-title="MEXICO",Azteca Noticias 
+#EXTINF:-1 tvg-logo="azteca_noticias_mx_zps5ekbsijn.png" group-title="AMERICA",Azteca Noticias MX 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="Proyecto_40_logo_zpsewq84op2.png" group-title="MEXICO",Proyecto 40 
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1 tvg-logo="forotv_logo2_zpsym62r3cn.png" group-title="MEXICO",Foro Tv 
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="multimedios_tv_zpsgw1mtkzz.png" group-title="MEXICO",Multimedios Tv 
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
 
 #EXTINF:0,-España-
 
@@ -107,25 +100,6 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?-1332%2F1499
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png" group-title="ESPAÑA",RT Español HD
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-
-#EXTINF:0,-Estilo y tendencias-
-
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:0,-Deportes-
 
@@ -205,57 +179,41 @@ http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2981.ts
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2991.ts
 #EXTINF:-1 group-title="DEPORTES INT", Sky Sport Austria DE
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/3000.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Setanta Sport
+#EXTINF:-1 group-title="DEPORTES UK", Setanta Sport
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2786.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Premiere Sport
+#EXTINF:-1 group-title="DEPORTES UK", Premiere Sport
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2790.ts
-#EXTINF:-1 group-title="DEPORTES INT”, MUTV
+#EXTINF:-1 group-title="DEPORTES UK", MUTV
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2794.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Eurosport 2 HD
+#EXTINF:-1 group-title="DEPORTES UK", Eurosport 2 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2807.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Eurosport 1 HD
+#EXTINF:-1 group-title="DEPORTES UK", Eurosport 1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2808.ts
-#EXTINF:-1 group-title="DEPORTES INT”, ESPN HD
+#EXTINF:-1 group-title="DEPORTES UK", ESPN HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2809.ts
-#EXTINF:-1 group-title="DEPORTES INT”, BT Sports 2 HD
+#EXTINF:-1 group-title="DEPORTES UK", BT Sports 2
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2829.ts
-#EXTINF:-1 group-title="DEPORTES INT”, BT Sports 1
+#EXTINF:-1 group-title="DEPORTES UK", BT Sports 1
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2830.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Box Nation
+#EXTINF:-1 group-title="DEPORTES UK", Box Nation
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2831.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTES INT”, Sky Sports News HD
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sports News HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2761.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport F1 HD
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport F1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2762.ts
-#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 5 HD
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 5 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2763.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport 4 HD
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 4 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2764.ts
-#EXTINF:-1 group-title="DEPORTES INT”, Sky Sport 3 HD
+#EXTINF:-1 group-title="DEPORTES UK", Sky Sport 3 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2765.ts
-#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 2HD
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 2HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2766.ts
-#EXTINF:-1 group-title="DEPORTES INT”, SKY SPORT 1 HD
+#EXTINF:-1 group-title="DEPORTES UK", SKY SPORT 1 HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2767.ts
-
-
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 8 HD AR
-http://5.196.67.222:80/live/Beinf/live/3802.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 7 HD AR
-http://5.196.67.222:80/live/Beinf/live/3803.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 6 HD AR
-http://5.196.67.222:80/live/Beinf/live/3801.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 4 HD AR
-http://5.196.67.222:80/live/Beinf/live/3799.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 3 HD FR
-http://5.196.67.222:80/live/Beinf/live/3807.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 2 HD AR
-http://5.196.67.222:80/live/Beinf/live/3798.ts
-#EXTINF:-1 group-title="DEPORTES ARAB",Bein sport 1 HD FR
-http://5.196.67.222:80/live/Beinf/live/3805.ts
 
 #EXTINF:-1 group-title="DEPORTES USA", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
@@ -285,6 +243,42 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1 group-title="DEPORTES USA", PAC-12 Washington FHD
 http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 8 HD AR
+http://5.196.67.222:80/live/Beinf/live/3802.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 7 HD AR
+http://5.196.67.222:80/live/Beinf/live/3803.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 6 HD AR
+http://5.196.67.222:80/live/Beinf/live/3801.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 4 HD AR
+http://5.196.67.222:80/live/Beinf/live/3799.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 3 HD FR
+http://5.196.67.222:80/live/Beinf/live/3807.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 2 HD AR
+http://5.196.67.222:80/live/Beinf/live/3798.ts
+#EXTINF:-1 group-title="DEPORTES BEIN",Bein sport 1 HD FR
+http://5.196.67.222:80/live/Beinf/live/3805.ts
+
+#EXTINF:0,-Estilo y tendencias-
+
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+
 
 #EXTINF:0,-Musica-
 
