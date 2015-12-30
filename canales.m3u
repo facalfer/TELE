@@ -135,6 +135,21 @@ http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports
+http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2
+http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE03.m3u8?tvultimate=%2F.ts
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 group-title="DEPORTES", ESPN2
+http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE03.m3u8?tvultimate=%2F.ts
+
 #EXTINF:-1 group-title="DEPORTES IT", Sky Supercalcio HD
 http://cp.dmbshare.net:8000/live/fernandofacal/fernandofacal/2687.ts
 #EXTINF:-1 group-title="DEPORTES IT", Sky Sport F1 HD
