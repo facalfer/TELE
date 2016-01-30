@@ -111,52 +111,29 @@ http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-
-#EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 group-title="DEPORTES", ESPN2 
+http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2
 http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="fox-sports-hd.png" group-title="DEPORTES",Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn.png" group-title="DEPORTES",ESPN Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn-2.png" group-title="DEPORTES",ESPN 2 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn-3-hd.png" group-title="DEPORTES",ESPN 3 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN + 
-http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="NFL Network.png" group-title="DEPORTES",NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", Univision TDN
-http://104.131.200.207/normalize/?lib=-670671733
-#EXTINF:-1 group-title="DEPORTES", TDN 
-http://t.tvultimate.mx/canal-tdn
-
-#EXTINF:-1 group-title="DEPORTES", Fox Sports NUEVO
-http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 NUEVO
-http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="DEPORTES", ESPN HD NUEVO
-http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="DEPORTES", ESPN2 NUEVO
-http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE03.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 group-title="DEPORTES", AyM Sports NUEVO
+#EXTINF:-1 group-title="DEPORTES", AyM Sports
 http://tvultimate.ddns.net/LIVE/H01/CANAL576/PROFILE02.m3u8?tvultimate=%2F.ts
 
-
+#EXTINF:-1 group-title="DEPORTES USA", NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES USA", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1 group-title="DEPORTES USA", Pac Mountain HD
