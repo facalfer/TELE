@@ -15,27 +15,27 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 
 #EXTINF:0,-Argentina-
 
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg" group-title="ARGENTINA",TyCSports
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_B-8U8Jt0fZA/TBAjsRP3KAI/AAAAAAAAGNQ/G0AsN2cbOaE/s1600/tyc-logo.jpg" group-title="ARGENTINA",TyCSports
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/16.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="ARGENTINA",America Tv 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/America_2_logo.png/100px-America_2_logo.png" group-title="ARGENTINA",America Tv 
 rtmp://entrypoint.vmf.edge-apps.net/entrypoint/americatvlive-100056
-#EXTINF:-1 tvg-logo="http://www.futbolparatodos.net/wp-content/uploads/2014/03/tvpublica.jpg" group-title="ARGENTINA",Tv Publica 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/TV_P%C3%BAblica.png/revision/latest?cb=20130122170553" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
-#EXTINF:-1 tvg-logo="el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/El_Trece_logo.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="america24_zpsw8zhmeap.png" group-title="ARGENTINA",A24
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b9/Am%C3%A9rica_24_HD.png/revision/latest?cb=20151026191938" group-title="ARGENTINA",A24
 https://www.youtube.com/watch?v=4rmsEf46f7I
-#EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="ARGENTINA",DXTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="ARGENTINA",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-logo="1i3qjKB_zpsmkcrzqgq.png" group-title="ARGENTINA",Canal 26 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-vb801yS5kHg/VXWtYdekyPI/AAAAAAAADaY/3hvDpfx2LlA/s320/240177.png" group-title="ARGENTINA",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",CANAL 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Canal_9_Argentina.png" group-title="ARGENTINA",CANAL 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:-1 tvg-logo="c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/200px-C5N_Logo_2015.PNG" group-title="ARGENTINA", C5N
 rtmp://c5n.stweb.tv:1935/c5n/live_media
-#EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", TN
+#EXTINF:-1 tvg-logo="http://tn.com.ar/anuario-2011/images/logo-tn-metrica.png" group-title="ARGENTINA", TN
 http://200.42.92.141/live/tnhd2/chunklist_w676058772.m3u8
-#EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", MAGAZINE
+#EXTINF:-1 tvg-logo="http://www.mgzn.tv/sites/default/files/styles/logo_mgzn/public/logo2016_0.png?itok=G5H7nmpN" group-title="ARGENTINA", MAGAZINE
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 
 #EXTINF:0,-America-
