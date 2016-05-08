@@ -21,18 +21,18 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0,-Argentina-
 
+#EXTINF:-1 group-title="ARGENTINA",TyCSports
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/16.ts
 #EXTINF:-1 tvg-logo="america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
 rtmp://entrypoint.vmf.edge-apps.net/entrypoint/americatvlive-100056
 #EXTINF:-1 tvg-logo="TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones
-http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
 #EXTINF:-1 tvg-logo="america24_zpsw8zhmeap.png" group-title="ARGENTINA",A24
 https://www.youtube.com/watch?v=4rmsEf46f7I
-#EXTINF:-1 tvg-logo="canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza
-https://www.youtube.com/watch?v=cdy85qJH_Ds
+#EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="ARGENTINA",DXTV 
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-logo="1i3qjKB_zpsmkcrzqgq.png" group-title="ARGENTINA",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",CANAL 9
@@ -57,17 +57,6 @@ http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
 http://stream-03.sv6.dailymotion.com/03/dm/1/x18w5up/live.isml/live.m3u8?e=1447515439&st=uNA0NthzTiBKmEmqRRp4Pg
 #EXTINF:-1 tvg-logo="ucvsa_zpsucuc3hvt.png" group-title="AMERICA",UCV Satelital PERU
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="redpat_zpsemuhxjks.png" group-title="AMERICA",Red Pat BOLIVIA
-http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1 tvg-logo="reduno_zpsvvo8rl9f.png" group-title="AMERICA",Red Uno BOLIVIA
-http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="200px-Rts_logo_zpsv8e80rvg.png" group-title="AMERICA", RTS Ecuador
-http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
-
 
 #EXTINF:-1 tvg-logo="canal_estrellas_lam_zpsqvy9egdu.png" group-title="AMERICA",Canal de las Estrellas MX
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
@@ -103,32 +92,40 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 tvg-logo="tyc-sports-tv_zps98dncr5p.png" group-title="DEPORTES",T y C Sports 
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
-http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="BeinSports.png" group-title="DEPORTES",BeinSports USA
-http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="DEPORTES", ESPN2 
-http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="DEPORTES", Fox Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2
-http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE05.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 group-title="Deportes",Formula 1
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/86.ts
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/91.ts
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/90.ts
+#EXTINF:-1 group-title="Deportes",ESPN
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/89.ts
+#EXTINF:-1 group-title="Deportes",Box Nation
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/40.ts
+#EXTINF:-1 group-title="Deportes",WWE Network
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/28.ts
+#EXTINF:-1 group-title="Deportes",Univision TDN
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/5.ts
+#EXTINF:-1 group-title="Deportes",TDN Mexico
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/21.ts
+#EXTINF:-1 group-title="Deportes",UFC Network Latinoamerica
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/3.ts
+#EXTINF:-1 group-title="Deportes",TyCSports
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/16.ts
+#EXTINF:-1 group-title="Deportes",Planeta Futbol
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/6.ts
+#EXTINF:-1 group-title="Deportes",Canal+ Liga
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/30.ts
+#EXTINF:-1 group-title="Deportes",Bein Sport
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/38.ts
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/4.ts
+#EXTINF:-1 group-title="Deportes",DirecTV Sports
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/39.ts
 
-#EXTINF:-1 tvg-logo="deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 
-#EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Azteca Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="DEPORTES", AyM Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL576/PROFILE02.m3u8?tvultimate=%2F.ts
+
+#EXTINF:0,-DEPORTES USA-
 
 #EXTINF:-1 group-title="DEPORTES USA", NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
@@ -165,25 +162,64 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 #EXTINF:0,-Estilo y tendencias-
-
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Wapa
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/7.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Univision
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/9.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Unimas
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/31.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",TVN
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/17.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Telemundo Puerto Rico
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/10.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Telemundo
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/8.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",RCN
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/13.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Pasiones
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/37.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Paramount Channel Latinoamerica
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/35.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Onda Latina TV
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/19.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mundo Max
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/15.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Multipremier
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/14.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Megavision
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/11.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max UP
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/24.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max Prime Oeste
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/26.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max Prime Este
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/25.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",MAX
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/27.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Heart TV
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/20.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Plus Este
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/2.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Latino
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/23.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Family
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/1.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO 2
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/22.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Premier 2
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/33.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Premier 1
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/32.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Multiplex
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/36.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Film & Arts Latinoamerica
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/34.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Discovery MAX
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/29.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Caracol
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/12.ts
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Azteca Noticias
+http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/18.ts
 
 #EXTINF:0,-Musica-
 
@@ -222,210 +258,172 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 
 #EXTINF:0,-Premium GENEIPTV-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox
-http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Sony HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Warner HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL205/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Universal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL207/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",FX HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL209/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="a&e.png",A&E 
-http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="axn.png",AXN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL213/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="trutv.png",TruTV HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL215/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="Comedy Central HD (2).png",Comedy Central
-http://tvultimate.ddns.net/LIVE/H01/CANAL217/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:0 tvg-logo="unicable.png",Unicable
-http://tvultimate.ddns.net/LIVE/H01/CANAL218/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="bbc entertainment.png",BBC
-http://tvultimate.ddns.net/LIVE/H01/CANAL253/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="!e.png",E! 
-http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="Latino-SYFY.png",SyFy
-http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fx.png",FX
-http://tvultimate.ddns.net/LIVE/H01/CANAL258/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="id.png",ID
-http://tvultimate.ddns.net/LIVE/H01/CANAL263/PROFILE02.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="infinito.png",TNT Series
-http://tvultimate.ddns.net/LIVE/H01/CANAL266/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="el gourmet.png",El Gourmet
-http://tvultimate.ddns.net/LIVE/H01/CANAL268/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="glitz.png",Glitz
-http://tvultimate.ddns.net/LIVE/H01/CANAL270/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox life.png",Fox Life
-http://tvultimate.ddns.net/LIVE/H01/CANAL271/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
-http://tvultimate.ddns.net/LIVE/H01/CANAL272/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tbs.png",TBS
-http://tvultimate.ddns.net/LIVE/H01/CANAL273/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tlnovelas.png",Tlnovelas
-http://tvultimate.ddns.net/LIVE/H01/CANAL275/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
-http://tvultimate.ddns.net/LIVE/H01/CANAL303/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="disney jr.png",Disney Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL308/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="nick jr.png",Nick Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL310/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="disney channel.png",Disney Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="nicktoons.png",NickToons
-http://tvultimate.ddns.net/LIVE/H01/CANAL314/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="nick hd.png",Nick HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL315/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="nickelodeon.png",Nickelodeon
-http://tvultimate.ddns.net/LIVE/H01/CANAL317/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="cartoon network.png",Cartoon Network
-http://tvultimate.ddns.net/LIVE/H01/CANAL320/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="disney xd.png",Disney XD
-http://tvultimate.ddns.net/LIVE/H01/CANAL322/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="boomerang.png",Boomerang
-http://tvultimate.ddns.net/LIVE/H01/CANAL324/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tooncast.png",Tooncast
-http://tvultimate.ddns.net/LIVE/H01/CANAL328/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tiin.png",TIIN
-http://tvultimate.ddns.net/LIVE/H01/CANAL325/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="discovery channel.png",DISCOVERY HD Teather
-http://tvultimate.ddns.net/LIVE/H01/CANAL351/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="history hd.png",History
-http://tvultimate.ddns.net/LIVE/H01/CANAL353/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="natgeo wild hd.png",NatGeo Wild HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL355/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL356/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="discovery channel.png",Discovery Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL371/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="animal planet.png",Animal Planet
-http://tvultimate.ddns.net/LIVE/H01/CANAL373/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="home and health.png",Home and Health
-http://tvultimate.ddns.net/LIVE/H01/CANAL374/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="natgeo.png",NatGeo
-http://tvultimate.ddns.net/LIVE/H01/CANAL377/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="lifetime.png",Lifetime
-http://tvultimate.ddns.net/LIVE/H01/CANAL379/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="discovery science.png",Discovery Science
-http://tvultimate.ddns.net/LIVE/H01/CANAL381/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="discovery civilization.png",Discovery Civilization
-http://tvultimate.ddns.net/LIVE/H01/CANAL382/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="turbo dis.png",Discovery Turbo
-http://tvultimate.ddns.net/LIVE/H01/CANAL383/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL386/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="wobi tv.png",WOBI TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL387/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox 1 hd.png",Fox 1 HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox action.png",Fox Action HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL416/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox movies HD.png",Fox Movies HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL417/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox cinema.png",Fox Cinéma
-http://tvultimate.ddns.net/LIVE/H01/CANAL421/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="fox classics.png",Fox Classics
-http://tvultimate.ddns.net/LIVE/H01/CANAL424/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="cinecanal hd.png",Cinecanal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL430/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tnt hd.png",TNT HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL435/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="golden.png",Golden HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL436/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="the film zone hd.png",The Film Zone HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL440/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="de pelicula hd.png",De Película HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL442/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="amc hd.png",AMC
-http://tvultimate.ddns.net/LIVE/H01/CANAL444/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="space hd.png",Space HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL445/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="cinecanal.png",Cinecanal
-http://tvultimate.ddns.net/LIVE/H01/CANAL480/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tvtultimate.png",Cinemax
-http://tvultimate.ddns.net/LIVE/H01/CANAL481/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="tnt.png",TNT
-http://tvultimate.ddns.net/LIVE/H01/CANAL482/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="golden edge.png",Golden Edge
-http://tvultimate.ddns.net/LIVE/H01/CANAL484/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="space hd.png",Space
-http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="sat.1 hd.png",I.Sat
-http://tvultimate.ddns.net/LIVE/H01/CANAL495/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 group-title="PREMIUM GENEIPTV" tvg-logo="TCM.png",TCM
-http://tvultimate.ddns.net/LIVE/H01/CANAL496/PROFILE05.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",VH1 Classics
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/97.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",VH1
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/94.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TNT
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/76.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",The Film Zone
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/77.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TeleHit
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/93.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TCM
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/85.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Studio Universal
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/84.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Space
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/81.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Ritmoson
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/98.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",MTV Live
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/92.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",MTV Hits
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/96.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",MTV
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/95.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Golden Edge
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/83.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Golden
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/73.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Sports 2
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/88.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Sports
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/87.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Movies
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/70.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Family
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/72.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Classics
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/74.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Cinema
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/71.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Action
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/69.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox 1
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/68.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",De Pelicula
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/78.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Cinemax
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/82.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Cinecanal
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/75.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Bandamax
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/99.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Az Cinema
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/79.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",AMC
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/80.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Wobi TV
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/67.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TLC
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/66.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",NatGeo Wild
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/56.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",NatGeo
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/61.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Lifetime
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/62.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",History
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/55.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery World
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/57.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery Turbo
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/65.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery Theater
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/54.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery Science
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/63.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery H&H
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/60.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",discovery Civilization
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/64.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery Channel
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/58.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Animal Planet
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/59.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Tooncast
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/53.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TIIN
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/52.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",NickToons
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/48.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Nickelodeon
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/47.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Nick Jr
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/44.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Nick
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/46.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Disney XD
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/50.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Disney Channel
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/45.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Cartoon Network
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/49.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Boomerang
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/51.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TNT Series
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/33.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Tlenovelas
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/40.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TBS
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/38.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Gourmet
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/34.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Glitz
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/35.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Life
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/36.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Distrito Comedia
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/37.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Disney Jr
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/43.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Discovery Kids
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/41.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",CBeebies
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/42.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Warner
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/18.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Universal Channel
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/28.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Universal
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/19.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Unicable
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/31.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",TruTV
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/22.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",SyFy
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/29.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Sony
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/17.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Mas Chic
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/16.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Investigacion Discovery
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/32.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",FX
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/20.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",FOX
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/25.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",E!
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/27.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Comedy Central
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/23.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Az Corazon
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/24.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",AXN
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/21.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",A&E
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/30.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Trendy
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/14.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Sexuality Health Entertainment
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/15.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Hola TV
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/12.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fashion TV
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/13.ts
+#EXTINF:-1 group-title="PREMIUM GENEIPTV",Az Click
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/11.ts
 
 
 
