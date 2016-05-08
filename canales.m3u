@@ -35,14 +35,12 @@ https://www.youtube.com/watch?v=4rmsEf46f7I
 https://www.youtube.com/watch?v=cdy85qJH_Ds
 #EXTINF:-1 tvg-logo="1i3qjKB_zpsmkcrzqgq.png" group-title="ARGENTINA",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9
-#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",CANAL 9 2
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b978000.m3u8
+#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",CANAL 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 #EXTINF:-1 tvg-logo="c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
 rtmp://c5n.stweb.tv:1935/c5n/live_media
 #EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", TN
-rtsp://stream.tn.com.ar/live/tnhd1
+http://200.42.92.141/live/tnhd2/chunklist_w676058772.m3u8
 #EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", MAGAZINE
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 
