@@ -22,7 +22,7 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0,-Argentina-
 
 #EXTINF:-1 tvg-logo="america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
-https://www.youtube.com/embed/9B85F_piGV8
+rtmp://entrypoint.vmf.edge-apps.net/entrypoint/americatvlive-100056
 #EXTINF:-1 tvg-logo="TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
@@ -35,10 +35,12 @@ https://www.youtube.com/watch?v=4rmsEf46f7I
 https://www.youtube.com/watch?v=cdy85qJH_Ds
 #EXTINF:-1 tvg-logo="1i3qjKB_zpsmkcrzqgq.png" group-title="ARGENTINA",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9 
+#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9
+#EXTINF:-1 tvg-logo="canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",CANAL 9 2
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b978000.m3u8
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 #EXTINF:-1 tvg-logo="c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
-rtmp://c5n.stweb.tv:1935/c5n/live
+rtmp://c5n.stweb.tv:1935/c5n/live_media
 #EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", TN
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 tvg-logo="http://s667.photobucket.com/user/geneiptv/media/todo_noticias_zpsjqxwnjku.png.html" group-title="ARGENTINA", MAGAZINE
@@ -104,7 +106,7 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 #EXTINF:0,-Deportes-
 
 #EXTINF:-1 tvg-logo="tyc-sports-tv_zps98dncr5p.png" group-title="DEPORTES",T y C Sports 
-http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="BeinSports.png" group-title="DEPORTES",BeinSports USA
