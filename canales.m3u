@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:0,-Chile-
 
-#EXTINF:-1 tvg-logo="la_red_cl_zpstevkunxj.png" group-title="CHILE",La Red 
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="ucv_tv_cl_zpsquly9vvk.png" group-title="CHILE",UCV 
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="tvn_cl_zpsctcjmoub.png" group-title="CHILE",TVN 
+#EXTINF:-1 group-title="CHILE",TVN 
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="mega_cl_zps0ks9qdpw.png" group-title="CHILE",Mega 
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
@@ -15,17 +11,15 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="canal13_cl_zpsckqtjlod.png" group-title="CHILE",Canal 13 OP2
 http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:-1 tvg-logo="canal13_c_cl_zpsoueja6s7.png" group-title="CHILE", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 
 #EXTINF:0,-Argentina-
 
-#EXTINF:-1 group-title="ARGENTINA",TyCSports
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg" group-title="ARGENTINA",TyCSports
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/16.ts
-#EXTINF:-1 tvg-logo="america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="ARGENTINA",America Tv 
 rtmp://entrypoint.vmf.edge-apps.net/entrypoint/americatvlive-100056
-#EXTINF:-1 tvg-logo="TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
+#EXTINF:-1 tvg-logo="http://www.futbolparatodos.net/wp-content/uploads/2014/03/tvpublica.jpg" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
@@ -94,6 +88,10 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:-1 group-title="Deportes",Formula 1
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/86.ts
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/88.ts
+#EXTINF:-1 group-title="Deportes",Fox Sports
+http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/87.ts
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/91.ts
 #EXTINF:-1 group-title="Deportes",ESPN 2
@@ -286,10 +284,6 @@ http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/95.ts
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/83.ts
 #EXTINF:-1 group-title="PREMIUM GENEIPTV",Golden
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/73.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Sports 2
-http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/88.ts
-#EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Sports
-http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/87.ts
 #EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Movies
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/70.ts
 #EXTINF:-1 group-title="PREMIUM GENEIPTV",Fox Family
