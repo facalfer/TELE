@@ -86,39 +86,39 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="Deportes",Formula 1
+#EXTINF:-1 group-title="DEPORTES",Formula 1
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/86.ts
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/88.ts
-#EXTINF:-1 group-title="Deportes",Fox Sports
+#EXTINF:-1 group-title="DEPORTES",Fox Sports
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/87.ts
-#EXTINF:-1 group-title="Deportes",ESPN 3
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/91.ts
-#EXTINF:-1 group-title="Deportes",ESPN 2
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/90.ts
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 group-title="DEPORTES",ESPN
 http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/89.ts
-#EXTINF:-1 group-title="Deportes",Box Nation
+#EXTINF:-1 group-title="DEPORTES",Box Nation
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/40.ts
-#EXTINF:-1 group-title="Deportes",WWE Network
+#EXTINF:-1 group-title="DEPORTES",WWE Network
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/28.ts
-#EXTINF:-1 group-title="Deportes",Univision TDN
+#EXTINF:-1 group-title="DEPORTES",Univision TDN
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/5.ts
-#EXTINF:-1 group-title="Deportes",TDN Mexico
+#EXTINF:-1 group-title="DEPORTES",TDN Mexico
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/21.ts
-#EXTINF:-1 group-title="Deportes",UFC Network Latinoamerica
+#EXTINF:-1 group-title="DEPORTES",UFC Network Latinoamerica
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/3.ts
-#EXTINF:-1 group-title="Deportes",TyCSports
+#EXTINF:-1 group-title="DEPORTES",TyCSports
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/16.ts
-#EXTINF:-1 group-title="Deportes",Planeta Futbol
+#EXTINF:-1 group-title="DEPORTES",Planeta Futbol
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/6.ts
-#EXTINF:-1 group-title="Deportes",Canal+ Liga
+#EXTINF:-1 group-title="DEPORTES",Canal+ Liga
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/30.ts
-#EXTINF:-1 group-title="Deportes",Bein Sport
+#EXTINF:-1 group-title="DEPORTES",Bein Sport
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/38.ts
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/4.ts
-#EXTINF:-1 group-title="Deportes",DirecTV Sports
+#EXTINF:-1 group-title="DEPORTES",DirecTV Sports
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/39.ts
 
 
@@ -425,45 +425,45 @@ http://158.69.204.186:8000/live/fernandofacal_list/fernandofacal_list/11.ts
 
 #EXTINF:0,-Adultos-
 
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Venus
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Venus
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Playboy Red
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Playboy Red
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Redtube
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Redtube
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Private.com
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Jazmin Tv
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Jazmin Channel HD 720
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Jazmin Channel HD 720
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Sex Station
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Sex Station
 http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Hot XXX
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Hot XXX
 http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Ask Tv 
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Ask Tv 
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",LiveSex
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",LiveSex
 http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",LiveSex Latinas
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",LiveSex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",PassieXXX
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",PassieXXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Hot Shots
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Hot Shots
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Power Girls
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Power Girls
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Bella Club
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Bella Club
 http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Hot 100
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Hot 100
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",BabeStation X-Treme
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",BabeStation X-Treme
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Babes Sporting
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Babes Sporting
 http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",BabeStation Unleashed 2
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",BabeStation Unleashed 2
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",BabeStation Xtra
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",BabeStation Xtra
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="Adultos",Babestation Blue
+#EXTINF:-1 tvg-logo="play_zps6mp3huks.png" group-title="ADULTOS",Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
