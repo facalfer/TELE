@@ -113,79 +113,79 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Entretenimiento-
 
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/a&e.gif" group-title="ENTRETENIMIENTO", A&E
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
 http://co.exabytetv.info/exabyte-tp.php?id=1347&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" ,Antena 3
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO", AXN
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN
 http://co.exabytetv.info/exabyte-tp.php?id=1351&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="ENTRETENIMIENTO", Az Clic
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="ENTRETENIMIENTO",Az Clic
 http://co.exabytetv.info/exabyte-tp.php?id=1711&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="ENTRETENIMIENTO", Az Corazón
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="ENTRETENIMIENTO",Az Corazón
 http://co.exabytetv.info/exabyte-tp.php?id=1379&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="ENTRETENIMIENTO", Az Mundo
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="ENTRETENIMIENTO",Az Mundo
 http://co.exabytetv.info/exabyte-tp.php?id=1443&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="ENTRETENIMIENTO", Azteca 7
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="ENTRETENIMIENTO",Azteca 7
 http://co.exabytetv.info/exabyte-tp.php?id=1203&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="ENTRETENIMIENTO", BBC Entertainment
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="ENTRETENIMIENTO",BBC Entertainment
 http://co.exabytetv.info/exabyte-tp.php?id=1387&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="ENTRETENIMIENTO", Canal 5 HD
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="ENTRETENIMIENTO",Canal 5 HD
 http://co.exabytetv.info/exabyte-tp.php?id=1111&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="ENTRETENIMIENTO", Canal De Las Estrellas
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="ENTRETENIMIENTO",Canal De Las Estrellas
 http://co.exabytetv.info/exabyte-tp.php?id=1151&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal de las Estrellas (México)
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal de las Estrellas (México)
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO", Comedy Central HD
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central HD
 http://co.exabytetv.info/exabyte-tp.php?id=1359&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO", Discovery Home & Health
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Discovery Home & Health
 http://co.exabytetv.info/exabyte-tp.php?id=1527&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="ENTRETENIMIENTO", Distrito Comedia
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://co.exabytetv.info/exabyte-tp.php?id=1431&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="ENTRETENIMIENTO", E! Entertainment Television
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment Television
 http://co.exabytetv.info/exabyte-tp.php?id=1391&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="ENTRETENIMIENTO", El Gourmet
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="ENTRETENIMIENTO",El Gourmet
 http://co.exabytetv.info/exabyte-tp.php?id=1415&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="ENTRETENIMIENTO", El Trece
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="ENTRETENIMIENTO",El Trece
 http://co.exabytetv.info/exabyte-tp.php?id=1263&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", El Trece 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El Trece 2
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO", Fox
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",Fox
 http://co.exabytetv.info/exabyte-tp.php?id=1327&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO", Fox Life
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",Fox Life
 http://co.exabytetv.info/exabyte-tp.php?id=1427&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO", FX
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX
 http://co.exabytetv.info/exabyte-tp.php?id=1343&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="ENTRETENIMIENTO", Gala TV
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="ENTRETENIMIENTO",Gala TV
 http://co.exabytetv.info/exabyte-tp.php?id=1239&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="ENTRETENIMIENTO", Glitz
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="ENTRETENIMIENTO",Glitz
 http://co.exabytetv.info/exabyte-tp.php?id=1423&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO", Lifetime
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",Lifetime
 http://co.exabytetv.info/exabyte-tp.php?id=1535&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="ENTRETENIMIENTO", Más Chic
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="ENTRETENIMIENTO",Más Chic
 http://co.exabytetv.info/exabyte-tp.php?id=1375&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="ENTRETENIMIENTO", Sony HD
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="ENTRETENIMIENTO",Sony HD
 http://co.exabytetv.info/exabyte-tp.php?id=1332&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO", SyFy
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
 http://co.exabytetv.info/exabyte-tp.php?id=1399&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO", TBS Very Funny
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS Very Funny
 http://co.exabytetv.info/exabyte-tp.php?id=1435&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Telemundo
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo
 https://video10-lax.streamup.com/app/anahix10s-stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="ENTRETENIMIENTO", Tlnovelas
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="ENTRETENIMIENTO",Tlnovelas
 http://co.exabytetv.info/exabyte-tp.php?id=1439&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/trendy.gif" group-title="ENTRETENIMIENTO", Trendy
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/trendy.gif" group-title="ENTRETENIMIENTO",Trendy
 http://co.exabytetv.info/exabyte-tp.php?id=1447&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO", TruTV HD
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TruTV HD
 http://co.exabytetv.info/exabyte-tp.php?id=1355&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="ENTRETENIMIENTO", TVE Internacional
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="ENTRETENIMIENTO",TVE Internacional
 http://co.exabytetv.info/exabyte-tp.php?id=1695&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="ENTRETENIMIENTO", Unicable
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="ENTRETENIMIENTO",Unicable
 http://co.exabytetv.info/exabyte-tp.php?id=1363&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", UniMás
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UniMás
 https://video10-lax.streamup.com/app/unimas-1s-stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Univisión LA
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Univisión LA
 https://video10-atl.streamup.com/app/anahix13s-stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/hola-tv.gif" group-title="ENTRETENIMIENTO", ¡Hola! TV
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/hola-tv.gif" group-title="ENTRETENIMIENTO",¡Hola! TV
 http://co.exabytetv.info/exabyte-tp.php?id=1367&token=xkg584hgb6x7&cal=3&f=.m3u8
 
 
@@ -246,65 +246,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
-#EXTINF:0,-Estilo y tendencias-
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Wapa
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/7.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Univision
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/9.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Unimas
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/31.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",TVN
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/17.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Telemundo Puerto Rico
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/10.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Telemundo
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/8.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",RCN
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/13.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Pasiones
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/37.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Paramount Channel Latinoamerica
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/35.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Onda Latina TV
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/19.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mundo Max
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/15.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Multipremier
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/14.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Megavision
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/11.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max UP
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/24.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max Prime Oeste
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/26.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Max Prime Este
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/25.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",MAX
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/27.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Heart TV
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/20.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Plus Este
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/2.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Latino
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/23.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO Family
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/1.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",HBO 2
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/22.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Premier 2
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/33.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Premier 1
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/32.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Golden Multiplex
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/36.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Film & Arts Latinoamerica
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/34.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Discovery MAX
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/29.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Caracol
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/12.ts
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Azteca Noticias
-http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/18.ts
 
 #EXTINF:0,-Musica-
 
