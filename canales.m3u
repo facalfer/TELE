@@ -192,20 +192,128 @@ http://co.exabytetv.info/exabyte-tp.php?id=1367&token=xkg584hgb6x7&cal=3&f=.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN + HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:-1 group-title="DEPORTES",PX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:-1 channelId="227" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES",AyM Sports
+http://co.exabytetv.info/exabyte-tp.php?id=1680&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="1545" group-title="DEPORTES",Barca TV
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/562/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Bein Sports Español
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/287/exabytetv.m3u8
+#EXTINF:-1 channelId="1365" group-title="DEPORTES",Canal+ Deportes
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/559/exabytetv.m3u8
+#EXTINF:-1 channelId="1377" group-title="DEPORTES",Canal+ Deportes 2
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/560/exabytetv.m3u8
+#EXTINF:-1 channelId="1364" group-title="DEPORTES",Canal+ Futbol
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/561/exabytetv.m3u8
+#EXTINF:-1 channelId="1366" group-title="DEPORTES",Canal+ Liga
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/557/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Canal+ Liga 2
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/558/exabytetv.m3u8
+#EXTINF:-1 channelId="1370" group-title="DEPORTES",Canal+ Toros
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/567/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",CMD HD
+http://co.exabytetv.info:8000/live/ExabyteTV/RSVo5eWtqp/14.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Dubai Sports
+https://pro.exabytetv.info/tokener/xkg584hgb6x7/583/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES",ESPN + México
+http://co.exabytetv.info/exabyte-tp.php?id=1651&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="2540" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES",ESPN 1 México
+http://co.exabytetv.info/exabyte-tp.php?id=1671&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="344" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES",ESPN 2 México
+http://co.exabytetv.info/exabyte-tp.php?id=1675&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="355" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES",ESPN 3 México
+http://co.exabytetv.info/exabyte-tp.php?id=1655&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="1263" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES",ESPN HD México
+http://co.exabytetv.info/exabyte-tp.php?id=1651&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="82" group-title="DEPORTES",Eurosport 1
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/563/exabytetv.m3u8
+#EXTINF:-1 channelId="83" group-title="DEPORTES",Eurosport 2
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/564/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES",Formula 1
+http://co.exabytetv.info/exabyte-tp.php?id=1647&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="1328" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",Fox Sports 1 México
+http://co.exabytetv.info/exabyte-tp.php?id=1659&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="170" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",Fox Sports 2 México
+http://co.exabytetv.info/exabyte-tp.php?id=1663&token=xkg584hgb6x7&cal=3&f=.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Moto GP Español
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/565/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Motorz
+https://pro.exabytetv.info/tokener/xkg584hgb6x7/584/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Movistar F1
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/566/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",My Combat Channel
+https://pro.exabytetv.info/tokener/xkg584hgb6x7/586/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:-1 channelId="1332" group-title="DEPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 channelId="1332" group-title="DEPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 channelId="1587" group-title="DEPORTES",Sky Sports 1
+http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="1588" group-title="DEPORTES",Sky Sports 2
+http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="1589" group-title="DEPORTES",Sky Sports 3
+http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="1590" group-title="DEPORTES",Sky Sports 4
+http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Sky Sports 5
+http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="82" group-title="DEPORTES",Eurosport
+http://149.202.85.84:8080/EuroSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",BT Sport Europe
+http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",BT Sport ESPN
+http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Arena Sport 1
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Arena Sport 2
+http://149.202.85.84:8080/arenaSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Arena Sport 3
+http://149.202.85.84:8080/arenaSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Arena Sport 5
+http://149.202.85.84:8080/arenaSp5-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES”,SkySportsF1
+http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",SKY SPORTS 2 [UK]
+http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",SKY SPORTS 3 [UK]
+http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",SKY SPORTS 4 [UK]
+http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",SKY SPORTS 5 [UK]
+http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",BT SPORTS 1
+http://149.202.207.8:8080/bts1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",CTH1 Stadium
+http://149.202.207.8:8080/cth1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",CTH4 Stadium
+http://149.202.207.8:8080/cth4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES”,Super Sports 1
+http://149.202.85.84:8080/supSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Super Sports 2
+http://149.202.85.84:8080/supSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Super Sports 3
+http://149.202.85.84:8080/supSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 channelId="1177" group-title="DEPORTES",Sky Sports F1
+http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1 channelId="1965" group-title="DEPORTES",TDN
+https://video10-lax.streamup.com/app/rdz11s-stream_aac/chunklist.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",The Ski Channel
+https://pro.exabytetv.info/tokener/xkg584hgb6x7/585/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",TyC Deportes
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/35/chunklist.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",UFC Next
+https://pro.exabytetv.info/tokener/xkg584hgb6x7/544/exabytetv.m3u8
+#EXTINF:-1 channelId="-1" group-title="DEPORTES",Versus Channel
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 channelId="2065" group-title="DEPORTES",WWE Network
+http://co.exabytetv.info:8000/live/ExabyteTV/RSVo5eWtqp/13.m3u8
 
 
 
