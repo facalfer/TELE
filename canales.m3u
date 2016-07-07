@@ -195,7 +195,7 @@ http://co.exabytetv.info/exabyte-tp.php?id=1647&token=xkg584hgb6x7&cal=3&f=.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",Fox Sports 1 México
 http://95.211.246.230:8081/live/foxsports1-hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",Fox Sports 2 México
-http://95.211.246.221:8081/live/bein1fr-hq/playlist.m3u8
+http://95.211.246.221:8081/live/bein2fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTYgNDo0MDozOSBQTSZoYXNoX3ZhbHVlPVlRSDFNdTJGTVdJNmhRZUVDbTEzMkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTA4LjE2Mi4yMTIuMTYmc3RybV9sZW49MTU=
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Gol TV HD
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Moto GP Español
