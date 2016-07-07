@@ -193,7 +193,7 @@ https://pro.exabytetv.info/xtc/xkg584hgb6x7/564/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES",Formula 1
 http://co.exabytetv.info/exabyte-tp.php?id=1647&token=xkg584hgb6x7&cal=3&f=.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",Fox Sports 1 México
-http://co.exabytetv.info/exabyte-tp.php?id=1659&token=xkg584hgb6x7&cal=3&f=.m3u8
+http://95.211.246.230:8081/live/foxsports1-hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",Fox Sports 2 México
 http://co.exabytetv.info/exabyte-tp.php?id=1663&token=xkg584hgb6x7&cal=3&f=.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Gol TV HD
