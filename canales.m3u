@@ -16,7 +16,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 #EXTINF:0,-Argentina-
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_B-8U8Jt0fZA/TBAjsRP3KAI/AAAAAAAAGNQ/G0AsN2cbOaE/s1600/tyc-logo.jpg" group-title="ARGENTINA",TyCSports
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/35/chunklist.m3u8
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/America_2_logo.png/100px-America_2_logo.png" group-title="ARGENTINA",America Tv 
 http://158.69.206.198:8000/live/fernandofacal_list/fernandofacal_list/45.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/TV_P%C3%BAblica.png/revision/latest?cb=20130122170553" group-title="ARGENTINA",Tv Publica 
@@ -207,15 +207,9 @@ https://pro.exabytetv.info/tokener/xkg584hgb6x7/584/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Movistar F1
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/566/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+http://premium.exabytetv.info/xtc/dlso8ws/663/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://bedsa.co.uk/wp-content/uploads/2015/12/SKY-SPORTS.gif" group-title="DEPORTES",Sky Sports F1
 http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
 #EXTINF:-1 tvg-logo="http://bedsa.co.uk/wp-content/uploads/2015/12/SKY-SPORTS.gif" group-title="DEPORTES",Sky Sports 1
@@ -230,10 +224,10 @@ http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
 http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Eurosport
 http://149.202.85.84:8080/EuroSp1-94506afdjklfg/local/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",BT SPORTS 1
-http://149.202.207.8:8080/bts1-94506afdjklfg/local/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",BT Sport Europe
-http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",BT Sport 1
+http://premium.exabytetv.info/xtc/dlso8ws/667/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",BT Sport 2
+http://premium.exabytetv.info/xtc/dlso8ws/665/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",BT Sport ESPN
 http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Arena Sport 1
@@ -255,15 +249,15 @@ http://149.202.85.84:8080/supSp2-94506afdjklfg/local/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Super Sports 3
 http://149.202.85.84:8080/supSp3-94506afdjklfg/local/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",TDN
-https://video10-lax.streamup.com/app/rdz11s-stream_aac/chunklist.m3u8
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/110.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",WIN Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",The Ski Channel
 https://pro.exabytetv.info/tokener/xkg584hgb6x7/585/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",TyC Deportes
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",UFC Next
 https://pro.exabytetv.info/tokener/xkg584hgb6x7/544/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Versus Channel
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",WWE Network
 http://co.exabytetv.info:8000/live/ExabyteTV/RSVo5eWtqp/13.m3u8
 
