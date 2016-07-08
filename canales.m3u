@@ -154,10 +154,6 @@ http://co.exabytetv.info/exabyte-tp.php?id=1367&token=xkg584hgb6x7&cal=3&f=.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES",AyM Sports
-http://co.exabytetv.info/exabyte-tp.php?id=1680&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Barca TV
-https://pro.exabytetv.info/xtc/xkg584hgb6x7/562/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Bein Sports Español
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/287/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Canal+ Deportes
@@ -170,25 +166,19 @@ https://pro.exabytetv.info/xtc/xkg584hgb6x7/561/exabytetv.m3u8
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/557/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Canal+ Liga 2
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/558/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Canal+ Toros
-https://pro.exabytetv.info/xtc/xkg584hgb6x7/567/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",CMD HD
-http://co.exabytetv.info:8000/live/ExabyteTV/RSVo5eWtqp/14.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Dubai Sports
-https://pro.exabytetv.info/tokener/xkg584hgb6x7/583/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES",ESPN + México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES",ESPN +
 http://premium.exabytetv.info/total3/dlso8ws/515/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES",ESPN 1 México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES",ESPN
 http://premium.exabytetv.info/total3/dlso8ws/516/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES",ESPN 2 México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES",ESPN 2
 http://premium.exabytetv.info/total3/dlso8ws/517/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES",ESPN 3 México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES",ESPN 3
 http://premium.exabytetv.info/total3/dlso8ws/518/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES",ESPN HD México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES",ESPN HD
 http://premium.exabytetv.info/total3/dlso8ws/519/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",FOX Sports 1 México
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",FOX Sports
 http://premium.exabytetv.info/total3/dlso8ws/521/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",FOX Sports 2 México
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",FOX Sports 2
 http://premium.exabytetv.info/total3/dlso8ws/522/exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Eurosport 1
@@ -210,6 +200,7 @@ https://pro.exabytetv.info/xtc/xkg584hgb6x7/566/exabytetv.m3u8
 http://premium.exabytetv.info/xtc/dlso8ws/663/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
 #EXTINF:-1 tvg-logo="http://bedsa.co.uk/wp-content/uploads/2015/12/SKY-SPORTS.gif" group-title="DEPORTES",Sky Sports F1
 http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
 #EXTINF:-1 tvg-logo="http://bedsa.co.uk/wp-content/uploads/2015/12/SKY-SPORTS.gif" group-title="DEPORTES",Sky Sports 1
