@@ -179,23 +179,25 @@ https://pro.exabytetv.info/tokener/xkg584hgb6x7/583/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES",ESPN + México
 http://premium.exabytetv.info/total3/dlso8ws/515/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES",ESPN 1 México
-http://co.exabytetv.info/exabyte-tp.php?id=1671&token=xkg584hgb6x7&cal=3&f=.m3u8
+http://premium.exabytetv.info/total3/dlso8ws/516/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES",ESPN 2 México
-http://co.exabytetv.info/exabyte-tp.php?id=1675&token=xkg584hgb6x7&cal=3&f=.m3u8
+http://premium.exabytetv.info/total3/dlso8ws/517/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES",ESPN 3 México
-http://co.exabytetv.info/exabyte-tp.php?id=1655&token=xkg584hgb6x7&cal=3&f=.m3u8
+http://premium.exabytetv.info/total3/dlso8ws/518/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES",ESPN HD México
-http://co.exabytetv.info/exabyte-tp.php?id=1651&token=xkg584hgb6x7&cal=3&f=.m3u8
+http://premium.exabytetv.info/total3/dlso8ws/519/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",FOX Sports 1 México
+http://premium.exabytetv.info/total3/dlso8ws/521/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",FOX Sports 2 México
+http://premium.exabytetv.info/total3/dlso8ws/522/exabytetv.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Eurosport 1
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/563/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Eurosport 2
 https://pro.exabytetv.info/xtc/xkg584hgb6x7/564/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES",Formula 1
 http://co.exabytetv.info/exabyte-tp.php?id=1647&token=xkg584hgb6x7&cal=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES",Fox Sports 1 México
-http://95.211.246.230:8081/live/foxsports1-hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES",Fox Sports 2 México
-http://95.211.246.221:8081/live/bein2fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMTYgNDo0MDozOSBQTSZoYXNoX3ZhbHVlPVlRSDFNdTJGTVdJNmhRZUVDbTEzMkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTA4LjE2Mi4yMTIuMTYmc3RybV9sZW49MTU=
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Gol TV HD
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Moto GP Español
@@ -257,7 +259,7 @@ https://video10-lax.streamup.com/app/rdz11s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",The Ski Channel
 https://pro.exabytetv.info/tokener/xkg584hgb6x7/585/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",TyC Deportes
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/35/chunklist.m3u8
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",UFC Next
 https://pro.exabytetv.info/tokener/xkg584hgb6x7/544/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kWqBo1W.png" group-title="DEPORTES",Versus Channel
